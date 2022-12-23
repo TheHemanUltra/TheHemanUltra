@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my repos friends .....
+if you are on my git account then you already know my name and i am a simple guy which is enthusiastic for AI,Deep learning  and nothing special
 <!--
 **TheHemanUltra/TheHemanUltra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
